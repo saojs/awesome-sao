@@ -7,7 +7,7 @@
 |name|description|
 |---|---|
 |[template](https://github.com/egoist/template-template)|Template for scaffolding out an SAO template|
-|[vue](https://github.com/egoist/template-vue)|Kickstart a Vue project with vbuild|
+|[vue](https://github.com/egoist/template-vue)|Kickstart a Vue project with `vue build` command|
 |[gi](https://github.com/egoist/template-gi)|Generate .gitignore file in your project|
 |[nm](https://github.com/egoist/template-nm)|Scaffold out a node module|
 |[vue-webpack](https://github.com/egoist/template-vue-webpack)|Vue.js offcial webpack template (SAO port)|
