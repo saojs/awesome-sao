@@ -12,6 +12,7 @@
 |[nm](https://github.com/egoist/template-nm)|Scaffold out a node module|
 |[vue-webpack](https://github.com/egoist/template-vue-webpack)|Vue.js offcial webpack template (SAO port)|
 |[basic](https://github.com/egoist/template-basic)|Basic project skeleton|
+|[react](https://github.com/zcong1993/template-react)|SAO template for react with vbuild|
 
 ## License
 
