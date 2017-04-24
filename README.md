@@ -13,6 +13,7 @@
 |[vue-webpack](https://github.com/egoist/template-vue-webpack)|Vue.js offcial webpack template (SAO port)|
 |[basic](https://github.com/egoist/template-basic)|Basic project skeleton|
 |[react](https://github.com/zcong1993/template-react)|SAO template for react with vbuild|
+|[micro-service](https://github.com/tiaanduplessis/template-micro-service)|Scaffolding out a micro-service|
 
 ## License
 
