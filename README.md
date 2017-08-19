@@ -10,6 +10,7 @@
 |[vue](https://github.com/egoist/template-vue)|Kickstart a Vue project with [Poi](https://github.com/egoist/poi)|
 |[gi](https://github.com/egoist/template-gi)|Generate .gitignore file in your project|
 |[nm](https://github.com/egoist/template-nm)|Scaffold out a node module|
+|[heh](https://github.com/hehjs/heh)|Laugh at how easy it is to publish packages|
 |[vue-webpack](https://github.com/egoist/template-vue-webpack)|Vue.js offcial webpack template (SAO port)|
 |[basic](https://github.com/egoist/template-basic)|Basic project skeleton|
 |[react](https://github.com/zcong1993/template-react)|SAO template for react with vbuild|
