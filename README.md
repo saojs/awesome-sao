@@ -19,6 +19,7 @@
 |[node-cli](https://github.com/therealklanni/template-node-cli)|Scaffold a node cli tool|
 |[next](https://github.com/egoist/template-next)|Scaffold out a Next.js project|
 |[electron](https://github.com/egoist/template-electron)|Scaffold out an Electron project|
+|[expo](https://github.com/tiaanduplessis/template-expo)|Scaffold out a Expo app|
 
 ## License
 
