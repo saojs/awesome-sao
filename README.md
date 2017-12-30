@@ -21,6 +21,14 @@
 |[electron](https://github.com/egoist/template-electron)|Scaffold out an Electron project|
 |[expo](https://github.com/tiaanduplessis/template-expo)|Scaffold out an Expo app|
 
+## Standalone CLI
+
+|name|description|
+|---|---|
+|[create-vue-app](https://github.com/vue-land/create-vue-app)|Create Vue apps with no build configuration|
+|[create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)|Create Nuxt.js App in seconds|
+|[create-poi-react-app](https://github.com/egoist/create-poi-react-app)|The create-react-app that uses Poi instead of react-scripts|
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
