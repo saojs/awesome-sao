@@ -28,6 +28,7 @@
 |[create-vue-app](https://github.com/vue-land/create-vue-app)|Create Vue apps with no build configuration|
 |[create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)|Create Nuxt.js App in seconds|
 |[create-poi-react-app](https://github.com/egoist/create-poi-react-app)|The create-react-app that uses Poi instead of react-scripts|
+|[javascript-kit](https://github.com/friends-of-js/javascript-kit)|JavaScript and TypeScript module scaffolding tool|
 
 ## License
 
