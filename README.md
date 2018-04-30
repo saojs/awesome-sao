@@ -22,6 +22,7 @@
 |[expo](https://github.com/tiaanduplessis/template-expo)|Scaffold out an Expo app|
 |[mina](https://github.com/tinajs/template-mina)|Scaffold out a Mina project|
 |[tina](https://github.com/tinajs/template-tina)|Scaffold out a Tina project|
+|[bot](https://github.com/Piterden/template-bot)|Scaffold out a Telegram bot app|
 
 ## Standalone CLI
 
@@ -30,6 +31,7 @@
 |[create-vue-app](https://github.com/vue-land/create-vue-app)|Create Vue apps with no build configuration|
 |[create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)|Create Nuxt.js App in seconds|
 |[create-poi-react-app](https://github.com/egoist/create-poi-react-app)|The create-react-app that uses Poi instead of react-scripts|
+|[javascript-kit](https://github.com/friends-of-js/javascript-kit)|JavaScript and TypeScript module scaffolding tool|
 
 ## License
 
