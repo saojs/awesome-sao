@@ -20,6 +20,8 @@
 |[next](https://github.com/egoist/template-next)|Scaffold out a Next.js project|
 |[electron](https://github.com/egoist/template-electron)|Scaffold out an Electron project|
 |[expo](https://github.com/tiaanduplessis/template-expo)|Scaffold out an Expo app|
+|[mina](https://github.com/tinajs/template-mina)|Scaffold out a Mina project|
+|[tina](https://github.com/tinajs/template-tina)|Scaffold out a Tina project|
 |[bot](https://github.com/Piterden/template-bot)|Scaffold out a Telegram bot app|
 
 ## Standalone CLI
