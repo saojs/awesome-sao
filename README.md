@@ -23,6 +23,7 @@
 |[mina](https://github.com/tinajs/template-mina)|Scaffold out a Mina project|
 |[tina](https://github.com/tinajs/template-tina)|Scaffold out a Tina project|
 |[bot](https://github.com/Piterden/template-bot)|Scaffold out a Telegram bot app|
+|[feathers-nuxt/template-app](https://github.com/feathers-nuxt/template-app)|Batteries included template for full stack feathers+nuxt apps|
 
 ## Standalone CLI
 
@@ -32,6 +33,7 @@
 |[create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)|Create Nuxt.js App in seconds|
 |[create-poi-react-app](https://github.com/egoist/create-poi-react-app)|The create-react-app that uses Poi instead of react-scripts|
 |[javascript-kit](https://github.com/friends-of-js/javascript-kit)|JavaScript and TypeScript module scaffolding tool|
+|[feathers-nuxt/cli](https://github.com/feathers-nuxt/cli)|Scaffold, migrate, seed, build, deploy utility scripts for feathers+nuxt apps|
 
 ## License
 
