@@ -1,6 +1,6 @@
 # Awesome SAO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of delightful [SAO](https://github.com/egoist/sao) resources.
+> A curated list of delightful [SAO](https://github.com/saojs/sao) resources.
 
 Here is for SAO v1, for v0 please check out [this branch](https://github.com/saojs/awesome-sao/tree/v0).
 
