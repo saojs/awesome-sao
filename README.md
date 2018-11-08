@@ -10,6 +10,7 @@ Here is for SAO v1, for v0 please check out [this branch](https://github.com/sao
 |---|---|
 |[generator](https://github.com/saojs/sao-generator)|Scaffolding out a SAO generator|
 |[nm](https://github.com/saojs/sao-nm)|Scaffolding out a Node.js module|
+|[clasp](https://github.com/takanakahiko/sao-clasp)|Scaffolding out a [clasp](https://github.com/google/clasp) project|
 
 ## Standalone CLI
 
