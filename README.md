@@ -12,6 +12,9 @@ Here is for SAO v1, for v0 please check out [this branch](https://github.com/sao
 |[nm](https://github.com/saojs/sao-nm)|Scaffold out a Node.js module|
 |[clasp](https://github.com/takanakahiko/sao-clasp)|Scaffold out a [clasp](https://github.com/google/clasp) project|
 |[react](https://github.com/saojs/sao-react)|Scaffold out a [React](https://reactjs.org) app|
+|[readme-badges](https://github.com/brpaz/sao-readme-badges)|Scaffold out README badges using [Shields](https://shields.io)|
+|[editorconfig](Scaffold out)|Scaffold out .editorconfig file for multiple languages|
+|[license](hhttps://github.com/brpaz/sao-license)|Scaffold out a LICENSE file|
 
 ## Standalone CLI
 
