@@ -8,9 +8,10 @@ Here is for SAO v1, for v0 please check out [this branch](https://github.com/sao
 
 |name|description|
 |---|---|
-|[generator](https://github.com/saojs/sao-generator)|Scaffolding out a SAO generator|
-|[nm](https://github.com/saojs/sao-nm)|Scaffolding out a Node.js module|
-|[clasp](https://github.com/takanakahiko/sao-clasp)|Scaffolding out a [clasp](https://github.com/google/clasp) project|
+|[generator](https://github.com/saojs/sao-generator)|Scaffold out a SAO generator|
+|[nm](https://github.com/saojs/sao-nm)|Scaffold out a Node.js module|
+|[clasp](https://github.com/takanakahiko/sao-clasp)|Scaffold out a [clasp](https://github.com/google/clasp) project|
+|[react](https://github.com/saojs/sao-react)|Scaffold out a [React](https://reactjs.org) app|
 
 ## Standalone CLI
 
