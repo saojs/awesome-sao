@@ -17,6 +17,18 @@ Here is for SAO v1, for v0 please check out [this branch](https://github.com/sao
 |[license](https://github.com/brpaz/sao-license)|Scaffold out a LICENSE file|
 |[ulauncher-extension](https://github.com/brpaz/sao-ulauncher-extension)|Scaffold out an [Ulauncher](https://ulauncher.io) extension|
 |[typescript](https://github.com/youngtailors/sao-ts)|Scaffold out a [TypeScript](https://www.typescriptlang.org/) project.|
+|[travis](https://github.com/brpaz/sao-travis)|Scaffold out a basic [Travis](https://travis-ci.org) Configuration file. |
+|[gin](https://github.com/brpaz/sao-gin)|Scaffold a web project with [Gin](https://github.com/gin-gonic/gin) go framework.|
+|[procfile](https://github.com/brpaz/sao-procfile)|Scaffold out a [Procfile](https://devcenter.heroku.com/articles/procfile) file.|
+|[eslint](https://github.com/brpaz/sao-eslint)|Scaffold out a basic [Eslint](https://eslint.org) configuration for Javascript projects |
+|[gitignore](https://github.com/brpaz/sao-gitignore)|Scaffold a gitignore file based on common templates.|
+|[gitlabci](https://github.com/brpaz/sao-gitlabci)|Scaffold out a [GitLabCI](https://docs.gitlab.com/ee/ci/quick_start/e) YAML configuration file.|
+|[code-of-conduct](https://github.com/brpaz/sao-coc)|Scaffold out a basic "Code of conduct" file for Open source projects.|
+|[gitignore](https://github.com/brpaz/sao-gitignore)|Scaffold a gitignore file based on common templates.|
+|[gitlabci](https://github.com/brpaz/sao-gitlabci)|Scaffold out a [GitLabCI](https://docs.gitlab.com/ee/ci/quick_start/e) YAML configuration file.|
+|[go-cli](https://github.com/brpaz/sao-go-cli)|Scaffold out a Golang cli applicaiton, based on [Cobra](https://github.com/spf13/cobra).|
+|[php-library](https://github.com/brpaz/sao-php-library)|Scaffold out a PHP library. |
+|[git-project](https://github.com/brpaz/sao-git-project)|Scaffold some basic files usually found in open source projects like README,md, CONTRIBUTING.md, LICENSE, etc |
 
 ## Standalone CLI
 
