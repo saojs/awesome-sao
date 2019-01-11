@@ -17,6 +17,7 @@ Here is for SAO v1, for v0 please check out [this branch](https://github.com/sao
 |[license](https://github.com/brpaz/sao-license)|Scaffold out a LICENSE file|
 |[ulauncher-extension](https://github.com/brpaz/sao-ulauncher-extension)|Scaffold out an [Ulauncher](https://ulauncher.io) extension|
 |[typescript](https://github.com/youngtailors/sao-ts)|Scaffold out a [TypeScript](https://www.typescriptlang.org/) project.|
+|[create-node-lib](https://github.com/lirantal/create-node-lib)|Scaffold a batteries-included Node.js library. |
 
 ## Standalone CLI
 
