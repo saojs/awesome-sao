@@ -8,6 +8,8 @@ Here is for SAO v1, for v0 please check out [this branch](https://github.com/sao
 
 |name|description|
 |---|---|
+|[lad](https://lad.js.org)|Scaffold a Koa webapp and API framework for Node.js|
+|[lass](https://lad.js.org)|Scaffold a modern package boilerplate for Node.js|
 |[generator](https://github.com/saojs/sao-generator)|Scaffold out a SAO generator|
 |[nm](https://github.com/saojs/sao-nm)|Scaffold out a Node.js module|
 |[clasp](https://github.com/takanakahiko/sao-clasp)|Scaffold out a [clasp](https://github.com/google/clasp) project|
