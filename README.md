@@ -20,6 +20,7 @@ Here is for SAO v1, for v0 please check out [this branch](https://github.com/sao
 |[ulauncher-extension](https://github.com/brpaz/sao-ulauncher-extension)|Scaffold out an [Ulauncher](https://ulauncher.io) extension|
 |[typescript](https://github.com/youngtailors/sao-ts)|Scaffold out a [TypeScript](https://www.typescriptlang.org/) project.|
 |[create-node-lib](https://github.com/lirantal/create-node-lib)|Scaffold a batteries-included Node.js library. |
+|[jsbox-webpack](https://github.com/imyelo/jsbox-webpack-plugin/tree/master/packages/sao-jsbox-webpack)|Scaffold out a JSBox Apps with Webpack Integration|
 
 ## Standalone CLI
 
