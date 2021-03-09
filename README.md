@@ -23,6 +23,7 @@ Here is for SAO v1, for v0 please check out [this branch](https://github.com/sao
 |[jsbox-webpack](https://github.com/imyelo/jsbox-webpack-plugin/tree/master/packages/sao-jsbox-webpack)|Scaffold out a JSBox Apps with Webpack Integration|
 |[mina](https://github.com/tinajs/template-mina)|Scaffold out a Mina project|
 |[tina](https://github.com/tinajs/template-tina)|Scaffold out a Tina project|
+|[superplate](https://github.com/pankod/superplate)|Scaffold out a Frontend project|
 
 ## Standalone CLI
 
